@@ -1,0 +1,23 @@
+body {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: #232323;
+}
+
+.headline {
+    color: white;
+}
+
+#container {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.square {
+    width: 30%;
+    background-color: purple;
+    padding-bottom: 30%;
+    margin: 1.66%;
+    float: left;
+}
