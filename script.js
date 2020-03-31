@@ -74,7 +74,7 @@ for (let i = 0; i < squares.length; i += 1) {
             square.style.background = "#232323";
             messageDisplay.textContent = "Try Again"
         }
-    })
+    });
 };
 
 for (let i = 0; i < modeButtons.length; i += 1) {
